@@ -18,4 +18,4 @@ window.onload = function() {
     openTab('tabintro', this, '#222');
 }
 
-/* Javascript sure is neat. Anyways part 3/3 of the flag: _lucky?f10be399} */
+/* Javascript sure is neat. Anyways part 3/3 of the flag: _flag_hehe} */
